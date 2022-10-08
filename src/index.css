@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.wrapper {
+  min-height: 100vh;
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+  background-image: url(/images/bg-top.svg), url(/images/bg-bottom.svg);
+  background-color: hsl(240, 80%, 98%);
+  background-repeat: no-repeat, no-repeat;
+  background-position: top right, bottom left;
+}

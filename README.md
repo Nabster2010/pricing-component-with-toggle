@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github repo]()
-- Live Site URL: [live site]()
+- Solution URL: [github repo](https://github.com/Nabster2010/pricing-component-with-toggle)
+- Live Site URL: [live site](https://cute-babka-55a6e1.netlify.app/)
 
 ### Built with
 
